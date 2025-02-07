@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/UpperCase-Converter/static/css/main.dc4d6ff2.css",
-    "main.js": "/UpperCase-Converter/static/js/main.03a85c91.js",
-    "static/js/488.1fb5fe97.chunk.js": "/UpperCase-Converter/static/js/488.1fb5fe97.chunk.js",
-    "index.html": "/UpperCase-Converter/index.html",
-    "main.dc4d6ff2.css.map": "/UpperCase-Converter/static/css/main.dc4d6ff2.css.map",
-    "main.03a85c91.js.map": "/UpperCase-Converter/static/js/main.03a85c91.js.map",
-    "488.1fb5fe97.chunk.js.map": "/UpperCase-Converter/static/js/488.1fb5fe97.chunk.js.map"
+    "main.css": "/UpperCase-Converter.github.io/static/css/main.dc4d6ff2.css",
+    "main.js": "/UpperCase-Converter.github.io/static/js/main.143ee4e0.js",
+    "static/js/488.1fb5fe97.chunk.js": "/UpperCase-Converter.github.io/static/js/488.1fb5fe97.chunk.js",
+    "index.html": "/UpperCase-Converter.github.io/index.html",
+    "main.dc4d6ff2.css.map": "/UpperCase-Converter.github.io/static/css/main.dc4d6ff2.css.map",
+    "main.143ee4e0.js.map": "/UpperCase-Converter.github.io/static/js/main.143ee4e0.js.map",
+    "488.1fb5fe97.chunk.js.map": "/UpperCase-Converter.github.io/static/js/488.1fb5fe97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.03a85c91.js"
+    "static/js/main.143ee4e0.js"
   ]
 }
